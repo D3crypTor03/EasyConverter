@@ -119,7 +119,7 @@ def menu():
     print("Press 11 to convert Hexadecimal to Decimal \n")
     print("Press 12 to convert Hexadecimal to Octal  \n")
     print("Press 0 to  Exit\n\n")
-    print("SORRY FOR THE INCONVIENCE\nAny option to convert or convert to hexadecimal won't work for now \nthis will be fixed soon ")
+    print("SORRY FOR THE INCONVIENCE\nLast two option will not work for now this will be fixed soon ")
     print()
     ch = int(input("\t\tEnter your option:  "))
     os.system("clear")
